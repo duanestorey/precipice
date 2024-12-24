@@ -45,9 +45,7 @@ class Precipice extends GithubUpdater {
     }
 
     public function outputDashboard() {
-        echo '<div class="wrap">';
-        echo '<h1 class="wp-heading-inline">The Future Is Now</h1>';
-        echo '</div>';
+        require
     }
 
     public function removeWordPresDashboard() {
