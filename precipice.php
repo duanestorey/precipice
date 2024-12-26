@@ -3,6 +3,7 @@
     Plugin Name: Precipice
     Plugin URI: https://github.com/duanestorey/precipice
     Description: A new forward-looking dashboard for the WordPress admin
+    Author: Duane Storey
     Author URI: https://duanestorey.com
     Version: 1.0.0
     Stable: 1.0.0
